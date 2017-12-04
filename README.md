@@ -14,3 +14,7 @@ Afkanerd is not made for the entire planetary eco-system. It’s an organization
 ## What’s the vision
 Afkanerd hopes to cover the span of the African continent in under a year, and have the leading source of nerd products in same time span. It also has a goal to make public more than 500 startups within this same time frame.
 
+## Communication
+<b>IRC: </b> #afkanerd <br>
+<b>Email: </b> info.afkanerd@protonmail.com <br>
+<b>Website: </b> https://afkanerd.github.io
