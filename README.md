@@ -16,5 +16,5 @@ Afkanerd hopes to cover the span of the African continent in under a year, and h
 
 ## Communication
 <b>IRC: </b> #afkanerd <br>
-<b>Email: </b> info.afkanerd@protonmail.com <br>
-<b>Website: </b> https://afkanerd.github.io
+<b>Email: </b> info@afkanerd.com<br>
+<b>Website: </b> https://afkanerd.com
